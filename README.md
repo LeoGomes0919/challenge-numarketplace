@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/nu.gif" alt="NuMarketplace"/>
+  <img src="src/assets/nu.gif" width="300" height="500" alt="NuMarketplace"/>
 </p>
 
 <h1 align="center">
