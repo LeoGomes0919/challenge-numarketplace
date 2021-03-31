@@ -66,7 +66,7 @@ const Cart = () => {
     if (cartTotal > balance) {
       Alert.alert(
         'Aviso',
-        'eu saldo é saldo insuficiente'
+        'Seu saldo é saldo insuficiente'
       );
       return;
     }
